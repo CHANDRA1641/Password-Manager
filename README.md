@@ -11,6 +11,8 @@ Password Manager is a simple and secure application to store and manage your pas
 ## Technologies Used
 - Java
 - AES Encryption
+- nmap
+- wireshark
 
 ## Setup Instructions
 1. **Clone the repository:**
